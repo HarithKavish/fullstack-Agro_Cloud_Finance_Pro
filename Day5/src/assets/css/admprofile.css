@@ -1,0 +1,40 @@
+.profile {
+    width: 600px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(0, 0, 0, 0.589);
+    box-shadow: 3px 3px 5px 6px rgba(0, 0, 0, 0.404);
+    color: white;
+  }
+  .profile-header {
+    padding: 20px;
+    text-align: center;
+  }
+  .profile-name {
+    font-size: 32px;
+}
+.profile-form {
+    margin-top: -20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.profile-field {
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+}
+.profile-label {
+    width: 290px;
+    font-size: 18px;
+}
+.profile-labell {
+    width: 290px;
+    font-size: x-large;
+    font-weight: bold;
+  }
+  .profile-button {
+    margin-left: auto;
+    margin-right: auto;
+  }

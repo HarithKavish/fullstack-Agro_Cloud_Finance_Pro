@@ -1,0 +1,35 @@
+/* dashboard.css */
+
+.dashboard-container {
+    display: flex;
+    color: white;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.507);
+  }
+
+  .sidebar {
+    width: 15%;
+    /* height: 100vh; */
+    /* background-color: #333; */
+    /* background-color: rgba(0, 0, 0, 0.507); */
+    background-color: whitesmoke;
+    color: white;
+  }
+  
+  .dashboard-content {
+    flex: 1;
+    padding: 20px;
+    color: white;
+  }
+  
+.custom-slider{
+  float: left;
+  height: 600px;
+  width: 1200px;
+  /* padding: 100px; */
+}
+#myPieChart seri{
+  /* margin-top: 500px; */
+  /* float: left; */
+  color: white;
+}
